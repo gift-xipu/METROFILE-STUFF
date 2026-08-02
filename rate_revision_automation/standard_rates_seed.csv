@@ -1,0 +1,40 @@
+PriceLevel,Category,Item,ChargeCode,Rate
+POL0000012,Storage,SM2 Carton,SM2,5.03
+POL0000012,Storage,SM3 Carton,SM3,6.35
+POL0000012,Storage,SM4 Carton,SM4,11.61
+POL0000012,Storage,Storage Minimum Fee,SMIN,353.1
+POL0000012,Transport (Deliveries & Collections) (50km Radius),Collection Charge (<=10 Boxes) Minimum rate up to 10 boxes,COLM,281.99
+POL0000012,Transport (Deliveries & Collections) (50km Radius),Collection Charge (>=11 Boxes),COLU,26.86
+POL0000012,Transport (Deliveries & Collections) (50km Radius),New Box Collection,CB,26.86
+POL0000012,Transport (Deliveries & Collections) (50km Radius),Next Day Delivery (<=10 Boxes) Minimum rate up to 10 boxes,WSJ,281.99
+POL0000012,Transport (Deliveries & Collections) (50km Radius),Next Day Delivery (>=11 Boxes),DELS,27.5
+POL0000012,Transport (Deliveries & Collections) (50km Radius),Same Day Delivery (<=10 Boxes) Minimum rate up to 10 boxes,WEJ,1010.35
+POL0000012,Transport (Deliveries & Collections) (50km Radius),Same Day Delivery (>=11 Boxes),DELE,98.68
+POL0000012,Transport (Deliveries & Collections) (50km Radius),Delivery Of Orders per trip,DORD,281.99
+POL0000012,Transport (Deliveries & Collections) (50km Radius),Delivery / Collection - Outside 50km Radius (Per Km),WSJKM,13.38
+POL0000012,Handling Fees (per carton),Next Day Handling Fee,SHF,26.34
+POL0000012,Handling Fees (per carton),Same Day Handling Fee,EHF,35.41
+POL0000012,Handling Fees (per carton),Return Handling Fee,RHF,26.34
+POL0000012,Handling Fees (per carton),Destruction Handling Fee,DHF,35.92
+POL0000012,Handling Fees (per carton),Collection Handling Fee,CHF,26.34
+POL0000012,Handling Fees (per carton),Client View Handling Fee,CVHF,26.34
+POL0000012,Handling Fees (per carton),Location Handling Fee,LHF,26.34
+POL0000012,Handling Fees (per carton),Consolidated Handling Fee,HF,26.34
+POL0000012,Handling Fees (per carton),Audit Of Carton Contents,AUD,26.34
+POL0000012,Handling Fees (per carton),Secure Shredding Handling Fee,SDHF,52.97
+POL0000012,Initial Services,Packing (per carton),PCK,25.08
+POL0000012,Initial Services,Packing (per hour),PCKH,391.72
+POL0000012,Initial Services,"Packing (Per Day) Packing service team of 2 staff, charge, available on request",PCKD,2633.42
+POL0000012,Initial Services,Packing Minimum Charge (Less Than 20 Boxes),PCKBMIN,481.65
+POL0000012,Initial Services,Box Verification (per box),BDE,5.3
+POL0000012,Initial Services,Data Entry (per line),DE,5.3
+POL0000012,Initial Services,Index (per page),IND,6.14
+POL0000012,Initial Services,Index (per email),INDE,73.15
+POL0000012,Initial Services,Metronet User Access Fee (Per User Per Month),UAF,130.25
+POL0000012,Permanent Withdrawal (per carton),Permanent Box Withdrawal,BOXPW,52.33
+POL0000012,MetroMedia,M2 Box Base,NB2,32.1
+POL0000012,MetroMedia,M3 Box Base,NB3,56.71
+POL0000012,MetroMedia,M2/3 Box Lid,NL2,9.63
+POL0000012,MetroMedia,A4 File Box (SlideFlap),M2A,37.55
+POL0000012,MetroMedia,Lever Arch File Box,M2B,44.21
+POL0000012,MetroMedia,A4 File Box (LiftFlap),M2C,51.1
